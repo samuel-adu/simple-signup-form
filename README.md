@@ -8,4 +8,4 @@ The form doesn't send the data submited to any server instead it logs the input 
 
 ## Links
 
-- Live Url: []()
+- Live Url: [https://simple-signup-form-lake.vercel.app/](https://simple-signup-form-lake.vercel.app/)
